@@ -11,7 +11,7 @@ const nextConfig = {
     contactUrl: 'https://studiocordillera.github.io/kasm-workspace/1.1/',
   },
   reactStrictMode: true,
-  basePath: '/OSV Registry/1.0',
+  basePath: '/OSV Registry/1.1',
   trailingSlash: true,
   images: {
     unoptimized: true,
