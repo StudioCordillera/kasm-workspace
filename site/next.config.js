@@ -6,12 +6,12 @@ const nextConfig = {
   env: {
     name: 'OSV Registry',
     description: 'The official store for OSV.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    icon: 'site/public/OSV_WORKSPACE.png',
+    listUrl: 'https://github.com/StudioCordillera/kasm-workspace/',
+    contactUrl: 'https://github.com/StudioCordillera/kasm-workspace/',
   },
   reactStrictMode: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/OSV Registry/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
